@@ -1,0 +1,21 @@
+{
+  "name": "PointConvert",
+  "jest": {
+    "verbose": true
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "PointConvert.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "build": "npm run test && webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.1",
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.0"
+  }
+}
