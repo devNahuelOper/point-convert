@@ -107,8 +107,6 @@ function pointInclude() {
   return include;
 }
 
-// console.log(pointInclude());
-
 
 // ----------------------------- convertToPoints -------------------------------------
 
